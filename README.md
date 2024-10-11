@@ -54,9 +54,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/lbsena10/lbsena10/output/snake.svg" alt="Snake animation" />
-
-###
