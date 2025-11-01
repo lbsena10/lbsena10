@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=102C6B&vCenter=true&width=500&lines=Minhas+Experiências:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CF3315&vCenter=true&width=500&lines=Minhas+Experiências:)](https://git.io/typing-svg)
 
 <img  src="/public/vader.gif" align=right height="270">
 
@@ -8,7 +8,6 @@
 - 🛜 Rede de computadores
 - ⌨️ Infra
 - 🐧 Linux
-- 🎲 Análise de dados
 - 🔌 Automações
 - 🎮 Games
 - ☕ Café
@@ -36,9 +35,3 @@
 <a href="lucas.lbsena@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://x.com/LuscaSena">
-   <img src="https://img.shields.io/twitter/follow/LuscaSena" />
-</a>
-
-<br />
-<br />
