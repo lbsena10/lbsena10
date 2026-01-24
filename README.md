@@ -14,8 +14,8 @@
   <br>
   <br>
 
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lbsena10&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lbsena10&theme=zenburn)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lbsena&theme=draculautcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lbsena10&theme=zenburn)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <br>
 <h2>Meus conhecimentos:</h2>
