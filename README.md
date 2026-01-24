@@ -35,9 +35,5 @@
 <a href="lucas.lbsena@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<!--  -->
 
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lbsena10/lbsena10/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lbsena10/lbsena10/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lbsena10/lbsena10/output/github-contribution-grid-snake.svg">
-</picture>
+# <br>
