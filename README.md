@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CF3315&vCenter=true&width=500&lines=Minhas+Experiências:)](https://git.io/typing-svg)
 
-<img  src="/public/vader.gif" align=right height="270">
+<!-- <img  src="/public/vader.gif" align=right height="270"> -->
 
 - 🧙‍♂️ Atualmente Tech Lead
 - 📲 Front-end
