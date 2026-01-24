@@ -14,8 +14,8 @@
   <br>
   <br>
 
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lbsena10&theme=dracula&utcOffset=-3)] | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lbsena10&theme=dracula)] |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lbsena10&theme=tokyonight&utcOffset=-3)] | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lbsena10&theme=tokyonight)] |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 
 <br>
 <h2>Meus conhecimentos:</h2>
