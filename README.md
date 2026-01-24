@@ -35,8 +35,11 @@
 <a href="lucas.lbsena@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<<<<<<< HEAD
 
 <br>
+=======
+>>>>>>> 24d35841f19f961ba1330ccc314e44db383fe78e
 <br>
 <br>
 <picture>
