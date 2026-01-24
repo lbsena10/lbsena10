@@ -14,8 +14,8 @@
   <br>
   <br>
 
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/stats?username={lbsena10}&theme={dracula})](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lbsena10&theme=zenburn)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lbsena10&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lbsena10&theme=zenburn)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <br>
 <h2>Meus conhecimentos:</h2>
@@ -37,12 +37,13 @@
 </a>
 <<<<<<< HEAD
 
-<br>
-=======
->>>>>>> 24d35841f19f961ba1330ccc314e44db383fe78e
-<br>
-<br>
-<picture>
+# <br>
+
+> > > > > > > 24d35841f19f961ba1330ccc314e44db383fe78e
+> > > > > > > <br>
+> > > > > > > <br>
+> > > > > > > <picture>
+
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lbsena10/lbsena10/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lbsena10/lbsena10/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lbsena10/lbsena10/output/github-contribution-grid-snake.svg">
