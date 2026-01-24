@@ -35,14 +35,7 @@
 <a href="lucas.lbsena@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<<<<<<< HEAD
-
-# <br>
-
-> > > > > > > 24d35841f19f961ba1330ccc314e44db383fe78e
-> > > > > > > <br>
-> > > > > > > <br>
-> > > > > > > <picture>
+<!--  -->
 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lbsena10/lbsena10/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lbsena10/lbsena10/output/github-contribution-grid-snake.svg">
