@@ -14,8 +14,8 @@
   <br>
   <br>
 
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lbsena10&theme=zenburn&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lbsena10&theme=zenburn)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/stats?username={lbsena10}&theme={dracula})](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lbsena10&theme=zenburn)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <br>
 <h2>Meus conhecimentos:</h2>
@@ -35,3 +35,12 @@
 <a href="lucas.lbsena@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<br>
+<br>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lbsena10/lbsena10/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lbsena10/lbsena10/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lbsena10/lbsena10/output/github-contribution-grid-snake.svg">
+</picture>
