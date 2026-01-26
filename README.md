@@ -1,4 +1,4 @@
-[![Lucas.png](https://i.postimg.cc/tgDzDK39/Lucas.png)](https://postimg.cc/cKgYL5kz)
+<!-- [![Lucas.png](https://i.postimg.cc/tgDzDK39/Lucas.png)](https://postimg.cc/cKgYL5kz) -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CF3315&vCenter=true&width=500&lines=Minhas+Experiências:)](https://git.io/typing-svg)
 
