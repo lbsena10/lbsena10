@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CF3315&vCenter=true&width=500&lines=Minhas+Experiências:)](https://git.io/typing-svg)
+[![Lucas.jpg](https://i.postimg.cc/8kZqsYxg/Lucas.jpg)](https://postimg.cc/hh7C52S2)
 
-<!-- <img  src="/public/vader.gif" align=right height="270"> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CF3315&vCenter=true&width=500&lines=Minhas+Experiências:)](https://git.io/typing-svg)
 
 - 🧙‍♂️ Atualmente Tech Lead
 - 📲 Front-end
