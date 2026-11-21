@@ -3,7 +3,7 @@
 <defs></defs>
 <rect width="1000" height="84" fill="#0a0a0b"/>
 <line x1="0" y1="2" x2="1000" y2="2" stroke="#2a2a2e" stroke-width="1.5"/>
-<polygon points="30,62 52,24 64,24 42,62" fill="#2a2a2e"/><polygon points="52,62 74,24 86,24 64,62" fill="#5a5a5e"/><polygon points="74,62 96,24 108,24 86,62" fill="#9a9a9e"/><polygon points="96,62 118,24 130,24 108,62" fill="#e6e6e6"/><polygon points="118,62 140,24 152,24 130,62" fill="#e3262f"/>
-<polygon points="860,62 882,24 894,24 872,62" fill="#e3262f"/><polygon points="882,62 904,24 916,24 894,62" fill="#e6e6e6"/><polygon points="904,62 926,24 938,24 916,62" fill="#9a9a9e"/><polygon points="926,62 948,24 960,24 938,62" fill="#5a5a5e"/><polygon points="948,62 970,24 982,24 960,62" fill="#2a2a2e"/>
+<polygon points="30,62 52,24 64,24 42,62" fill="#2a2a2e"/><polygon points="52,62 74,24 86,24 64,62" fill="#5a5a5e"/><polygon points="74,62 96,24 108,24 86,62" fill="#9a9a9e"/><polygon points="96,62 118,24 130,24 108,62" fill="#e6e6e6"/><polygon points="118,62 140,24 152,24 130,62" fill="#52369a"/>
+<polygon points="860,62 882,24 894,24 872,62" fill="#52369a"/><polygon points="882,62 904,24 916,24 894,62" fill="#e6e6e6"/><polygon points="904,62 926,24 938,24 916,62" fill="#9a9a9e"/><polygon points="926,62 948,24 960,24 938,62" fill="#5a5a5e"/><polygon points="948,62 970,24 982,24 960,62" fill="#2a2a2e"/>
 <text x="500" y="52" fill="#fff" font-size="17" font-weight="700" text-anchor="middle" letter-spacing="3">PENSAMENTO SISTÊMICO. EXECUÇÃO. EVOLUÇÃO.</text>
 </svg>

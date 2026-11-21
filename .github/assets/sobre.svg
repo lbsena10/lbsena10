@@ -2,7 +2,7 @@
 <title>01 / Sobre mim</title>
 <defs></defs>
 <rect width="1000" height="250" fill="#0a0a0b"/>
-<polygon points="10,40 20,14 27,14 17,40" fill="#e3262f"/><text x="38" y="38" fill="#fff" font-size="26" font-weight="800">01 / SOBRE MIM</text><line x1="0" y1="56" x2="1000" y2="56" stroke="#2a2a2e" stroke-width="1.5"/>
+<polygon points="10,40 20,14 27,14 17,40" fill="#52369a"/><text x="38" y="38" fill="#fff" font-size="26" font-weight="800">01 / SOBRE MIM</text><line x1="0" y1="56" x2="1000" y2="56" stroke="#2a2a2e" stroke-width="1.5"/>
 <rect x="14" y="108" width="92" height="92" rx="14" fill="#111113" stroke="#2a2a2e"/>
 <rect x="30" y="124" width="60" height="60" rx="9" fill="none" stroke="#fff" stroke-width="3"/>
 <g transform="translate(36,130) scale(2.0)" fill="none" stroke="#fff" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round"><polyline points="4 17 10 11 4 5"/><line x1="12" y1="19" x2="20" y2="19"/></g>
