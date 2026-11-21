@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="76" viewBox="0 0 400 76" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title>LinkedIn</title>
+<defs></defs>
+
+<rect x="1" y="1" width="398" height="74" rx="8" fill="#111113" stroke="#4a4a4e" stroke-width="1.5"/><rect x="26" y="18" width="40" height="40" rx="5" fill="#fff"/><text x="46" y="50" text-anchor="middle" font-size="28" font-weight="900" fill="#000">in</text><text x="88" y="34" fill="#fff" font-size="16" font-weight="700" >LinkedIn</text><text x="88" y="56" fill="#bdbdc1" font-size="14" font-weight="400" >linkedin.com/in/lbsena10</text><g transform="translate(356,24) scale(0.8333333333333334)" fill="none" stroke="#d0d0d0" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6M10 14 21 3M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></g>
+</svg>

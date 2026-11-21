@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="256" viewBox="0 0 1000 256" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title>03 / Projetos</title>
+<defs><linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#18181b"/><stop offset="1" stop-color="#0e0e10"/></linearGradient><pattern id="hatch" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(-50)"><rect width="3" height="10" fill="#ffffff" fill-opacity=".035"/></pattern></defs>
+<rect width="1000" height="256" fill="#0a0a0b"/>
+<polygon points="10,40 20,14 27,14 17,40" fill="#e3262f"/><text x="38" y="38" fill="#fff" font-size="26" font-weight="800">03 / PROJETOS</text><line x1="0" y1="56" x2="1000" y2="56" stroke="#2a2a2e" stroke-width="1.5"/>
+<rect x="2" y="76" width="236" height="170" rx="7" fill="url(#card)" stroke="#3a3a3e" stroke-width="1.3"/>
+<rect x="2" y="76" width="236" height="170" rx="7" fill="url(#hatch)"/>
+<g transform="translate(18,92) scale(1.0833333333333333)" fill="none" stroke="#fff" stroke-width="1.48" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></g>
+<text x="18" y="146" fill="#fff" font-size="15.5" font-weight="700" >Engenharia de Software</text>
+<text x="18" y="172" fill="#bdbdc1" font-size="12.8" font-weight="400" >Desenvolvimento de aplicações,</text>
+<text x="18" y="191" fill="#bdbdc1" font-size="12.8" font-weight="400" >sistemas e soluções com foco em</text>
+<text x="18" y="210" fill="#bdbdc1" font-size="12.8" font-weight="400" >qualidade, organização e evolução.</text>
+<g transform="translate(208,222) scale(0.6666666666666666)" fill="none" stroke="#e3262f" stroke-width="3.30" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></g>
+<rect x="256" y="76" width="236" height="170" rx="7" fill="url(#card)" stroke="#3a3a3e" stroke-width="1.3"/>
+<rect x="256" y="76" width="236" height="170" rx="7" fill="url(#hatch)"/>
+<g transform="translate(272,92) scale(1.0833333333333333)" fill="none" stroke="#fff" stroke-width="1.48" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><circle cx="12" cy="12" r="7"/><path d="M12 2v3M12 19v3M4.9 4.9l2.1 2.1M17 17l2.1 2.1M2 12h3M19 12h3M4.9 19.1 7 17M17 7l2.1-2.1"/></g>
+<text x="272" y="146" fill="#fff" font-size="15.5" font-weight="700" >Automação</text>
+<text x="272" y="172" fill="#bdbdc1" font-size="12.8" font-weight="400" >Soluções para otimizar processos,</text>
+<text x="272" y="191" fill="#bdbdc1" font-size="12.8" font-weight="400" >reduzir tarefas repetitivas e</text>
+<text x="272" y="210" fill="#bdbdc1" font-size="12.8" font-weight="400" >melhorar fluxos de trabalho.</text>
+<g transform="translate(462,222) scale(0.6666666666666666)" fill="none" stroke="#e3262f" stroke-width="3.30" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></g>
+<rect x="510" y="76" width="236" height="170" rx="7" fill="url(#card)" stroke="#3a3a3e" stroke-width="1.3"/>
+<rect x="510" y="76" width="236" height="170" rx="7" fill="url(#hatch)"/>
+<g transform="translate(526,92) scale(1.0833333333333333)" fill="none" stroke="#fff" stroke-width="1.48" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="5" width="14" height="14" rx="2"/><rect x="9" y="9" width="6" height="6"/><path d="M9 1v4M15 1v4M9 19v4M15 19v4M1 9h4M1 15h4M19 9h4M19 15h4"/></g>
+<text x="526" y="146" fill="#fff" font-size="15.5" font-weight="700" >Inteligência Artificial</text>
+<text x="526" y="172" fill="#bdbdc1" font-size="12.8" font-weight="400" >Exploração de integrações,</text>
+<text x="526" y="191" fill="#bdbdc1" font-size="12.8" font-weight="400" >aplicações inteligentes e novas</text>
+<text x="526" y="210" fill="#bdbdc1" font-size="12.8" font-weight="400" >possibilidades com IA.</text>
+<g transform="translate(716,222) scale(0.6666666666666666)" fill="none" stroke="#e3262f" stroke-width="3.30" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></g>
+<rect x="764" y="76" width="236" height="170" rx="7" fill="url(#card)" stroke="#3a3a3e" stroke-width="1.3"/>
+<rect x="764" y="76" width="236" height="170" rx="7" fill="url(#hatch)"/>
+<g transform="translate(780,92) scale(1.0833333333333333)" fill="none" stroke="#fff" stroke-width="1.48" stroke-linecap="round" stroke-linejoin="round"><path d="M9 3h6M10 3v6L4.5 19a1.5 1.5 0 0 0 1.3 2h12.4a1.5 1.5 0 0 0 1.3-2L14 9V3"/><path d="M7 15h10"/></g>
+<text x="780" y="146" fill="#fff" font-size="15.5" font-weight="700" >Experimentos &amp; Inovação</text>
+<text x="780" y="172" fill="#bdbdc1" font-size="12.8" font-weight="400" >Projetos pessoais, protótipos,</text>
+<text x="780" y="191" fill="#bdbdc1" font-size="12.8" font-weight="400" >estudos e experimentações</text>
+<text x="780" y="210" fill="#bdbdc1" font-size="12.8" font-weight="400" >tecnológicas.</text>
+<g transform="translate(970,222) scale(0.6666666666666666)" fill="none" stroke="#e3262f" stroke-width="3.30" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></g>
+</svg>
