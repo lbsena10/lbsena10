@@ -1,12 +1,12 @@
-<img src=".github/assets/lucas.png" alt="Banner de Lucas Bernardes Sena" width="100%" />
+<img src=".github/assets/banner-vice.svg" alt="Banner de Lucas Sena em estilo neon com pôr do sol, palmeiras e skyline" width="100%" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Sena+%F0%9F%91%8B;Tech+Lead+%7C+Full+Stack+Developer;Front-end+%E2%80%A2+Back-end+%E2%80%A2+Infra;Automatizando+tudo+que+se+repete+%F0%9F%94%8C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF2E88&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Sena+%F0%9F%91%8B;Tech+Lead+%7C+Full+Stack+Developer;Front-end+%E2%80%A2+Back-end+%E2%80%A2+Infra;Automatizando+tudo+que+se+repete+%F0%9F%94%8C)](https://git.io/typing-svg)
 
 <a href="https://br.linkedin.com/in/lucas-bernardes-sena-3389a0310"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:lucas.lbsena@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img alt="Visualizações do perfil" src="https://komarev.com/ghpvc/?username=lbsena10&style=for-the-badge&color=6144D2&label=VISITAS" />
+<img alt="Visualizações do perfil" src="https://komarev.com/ghpvc/?username=lbsena10&style=for-the-badge&color=FF2E88&label=VISITAS" />
 
 </div>
 
@@ -54,17 +54,17 @@ const lucas = {
 ## 📊 Estatísticas
 
 <div align="center">
-  <img alt="Estatísticas do GitHub de lbsena10" height="165" src="https://github-readme-stats.vercel.app/api?username=lbsena10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img alt="Linguagens mais usadas por lbsena10" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbsena10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img alt="Estatísticas do GitHub de lbsena10" height="165" src="https://github-readme-stats.vercel.app/api?username=lbsena10&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img alt="Linguagens mais usadas por lbsena10" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbsena10&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img alt="Sequência de contribuições de lbsena10" src="https://streak-stats.demolab.com?user=lbsena10&theme=tokyonight&hide_border=true&locale=pt_BR" />
+  <img alt="Sequência de contribuições de lbsena10" src="https://streak-stats.demolab.com?user=lbsena10&theme=radical&hide_border=true&locale=pt_BR" />
 </div>
 
 <div align="center">
-  <img alt="Horário mais produtivo de lbsena10" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lbsena10&theme=tokyonight&utcOffset=-3" />
-  <img alt="Detalhes do perfil de lbsena10" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lbsena10&theme=tokyonight" />
+  <img alt="Horário mais produtivo de lbsena10" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lbsena10&theme=radical&utcOffset=-3" />
+  <img alt="Detalhes do perfil de lbsena10" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lbsena10&theme=radical" />
 </div>
 
 ---
@@ -77,4 +77,4 @@ const lucas = {
   </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6144D2&height=120&section=footer" width="100%" alt="Rodapé" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A3C,50:FF2E88,100:3D0A5C&height=120&section=footer" width="100%" alt="Rodapé" />

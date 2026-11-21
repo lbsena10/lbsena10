@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 320" width="1200" height="320">
+  <title>Lucas Sena — Tech Lead</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#12002b"/>
+      <stop offset="0.35" stop-color="#3d0a5c"/>
+      <stop offset="0.65" stop-color="#b4146c"/>
+      <stop offset="0.85" stop-color="#ff4f6d"/>
+      <stop offset="1" stop-color="#ff9a3c"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a0b4f"/>
+      <stop offset="1" stop-color="#0b0120"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe066"/>
+      <stop offset="0.5" stop-color="#ff8a3d"/>
+      <stop offset="1" stop-color="#ff2e88"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.55" stop-color="#ffd1ec"/>
+      <stop offset="1" stop-color="#ff7ac6"/>
+    </linearGradient>
+    <mask id="sunStripes">
+      <rect x="0" y="0" width="1200" height="320" fill="#fff"/>
+      <rect x="0" y="150" width="1200" height="3" fill="#000"/>
+      <rect x="0" y="164" width="1200" height="4" fill="#000"/>
+      <rect x="0" y="178" width="1200" height="5" fill="#000"/>
+      <rect x="0" y="192" width="1200" height="6" fill="#000"/>
+      <rect x="0" y="205" width="1200" height="7" fill="#000"/>
+    </mask>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <!-- folha de palmeira -->
+    <path id="leaf" d="M0,0 C22,-20 62,-22 96,6 C84,-2 74,0 66,4 C56,-6 40,-8 30,-2 C22,-6 10,-4 0,0Z"/>
+    <g id="palm" fill="#14001f">
+      <path d="M0,0 C-4,-60 4,-120 -14,-170" stroke="#14001f" stroke-width="9" fill="none" stroke-linecap="round"/>
+      <g transform="translate(-14,-170)">
+        <use xlink:href="#leaf" transform="rotate(-10)"/>
+        <use xlink:href="#leaf" transform="rotate(25)"/>
+        <use xlink:href="#leaf" transform="rotate(-45) scale(0.85)"/>
+        <use xlink:href="#leaf" transform="scale(-1,1) rotate(-10)"/>
+        <use xlink:href="#leaf" transform="scale(-1,1) rotate(25)"/>
+        <use xlink:href="#leaf" transform="scale(-1,1) rotate(-45) scale(0.85)"/>
+        <use xlink:href="#leaf" transform="rotate(-80) scale(0.7)"/>
+      </g>
+    </g>
+    <style>
+      .twinkle { animation: tw 3s ease-in-out infinite; }
+      .t2 { animation-delay: 1s; } .t3 { animation-delay: 2s; }
+      @keyframes tw { 0%,100% { opacity: .2 } 50% { opacity: 1 } }
+      .pulse { animation: pu 4s ease-in-out infinite; }
+      @keyframes pu { 0%,100% { opacity: .55 } 50% { opacity: .9 } }
+      .shimmer { animation: sh 2.5s ease-in-out infinite; }
+      @keyframes sh { 0%,100% { opacity: .9 } 50% { opacity: .45 } }
+    </style>
+  </defs>
+
+  <!-- céu -->
+  <rect width="1200" height="320" fill="url(#sky)"/>
+
+  <!-- estrelas -->
+  <g fill="#fff">
+    <circle class="twinkle" cx="520" cy="30" r="1.6"/>
+    <circle class="twinkle t2" cx="610" cy="58" r="1.2"/>
+    <circle class="twinkle t3" cx="700" cy="22" r="1.5"/>
+    <circle class="twinkle" cx="1010" cy="40" r="1.3"/>
+    <circle class="twinkle t2" cx="1130" cy="18" r="1.7"/>
+    <circle class="twinkle t3" cx="460" cy="70" r="1.1"/>
+    <circle class="twinkle t2" cx="790" cy="48" r="1.2"/>
+  </g>
+
+  <!-- sol -->
+  <circle class="pulse" cx="840" cy="160" r="120" fill="#ff5fa2" filter="url(#softGlow)"/>
+  <circle cx="840" cy="160" r="95" fill="url(#sun)" mask="url(#sunStripes)"/>
+
+  <!-- skyline -->
+  <path fill="#24003a" d="M560,230 V200 h22 v-18 h16 v18 h14 v-40 h26 v40 h10 v-26 h18 v-30 h8 v-14 h6 v14 h8 v30 h12 v52 h14 v-34 h20 v34 h10 v-62 h28 v62 h12 v-22 h16 v22 h18 v-48 h12 v-10 h10 v10 h12 v48 h14 v-30 h22 v30 h20 v-16 h18 v16 h12 V230 Z"/>
+  <g fill="#ffd166" opacity="0.7">
+    <rect x="644" y="168" width="3" height="3"/><rect x="652" y="180" width="3" height="3"/>
+    <rect x="726" y="156" width="3" height="3"/><rect x="734" y="172" width="3" height="3"/>
+    <rect x="818" y="178" width="3" height="3"/><rect x="908" y="190" width="3" height="3"/>
+    <rect x="916" y="202" width="3" height="3"/><rect x="684" y="186" width="3" height="3"/>
+  </g>
+
+  <!-- mar -->
+  <rect x="0" y="230" width="1200" height="90" fill="url(#sea)"/>
+  <rect x="0" y="229" width="1200" height="2" fill="#ff7ac6" opacity="0.8"/>
+  <g class="shimmer" fill="#ff8a3d">
+    <rect x="760" y="240" width="160" height="3" rx="1.5"/>
+    <rect x="780" y="252" width="120" height="3" rx="1.5" fill="#ff5fa2"/>
+    <rect x="800" y="265" width="80" height="2.5" rx="1.2" fill="#ff2e88"/>
+    <rect x="815" y="278" width="50" height="2" rx="1" fill="#c2187a"/>
+    <rect x="828" y="290" width="24" height="2" rx="1" fill="#8a1066"/>
+  </g>
+
+  <!-- palmeiras -->
+  <use xlink:href="#palm" transform="translate(1120,322) scale(1.15)"/>
+  <use xlink:href="#palm" transform="translate(1040,322) scale(0.8) scale(-1,1)"/>
+  <use xlink:href="#palm" transform="translate(600,322) scale(0.72)"/>
+
+  <!-- texto -->
+  <g transform="translate(60,0) skewX(-10)" font-family="'Arial Black', Impact, 'Helvetica Neue', Arial, sans-serif">
+    <text x="20" y="128" font-size="70" font-weight="900" fill="#ff2e88" opacity="0.6" filter="url(#glow)" letter-spacing="2">LUCAS SENA</text>
+    <text x="20" y="128" font-size="70" font-weight="900" fill="url(#title)" stroke="#2b0040" stroke-width="2" paint-order="stroke" letter-spacing="2">LUCAS SENA</text>
+  </g>
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <text x="84" y="170" font-size="22" font-weight="700" fill="#2de2e6" letter-spacing="5" filter="url(#glow)">TECH LEAD · FULL STACK</text>
+    <text x="84" y="202" font-size="15" fill="#ffe3f3" letter-spacing="2" opacity="0.9">Front-end · Back-end · Infra · Automações</text>
+  </g>
+</svg>
